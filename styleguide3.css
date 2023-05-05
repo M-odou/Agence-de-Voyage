@@ -1,0 +1,107 @@
+:root { 
+  --alto: #d9d9d9;
+  --black: #000000;
+  --picton-blue: #3fa9f5;
+  --teal-blue: #043a5c;
+  --venice-blue: #05547d;
+  --white: #ffffff;
+ 
+  --font-size-l: 30px;
+  --font-size-m: 25px;
+  --font-size-s: 20px;
+  --font-size-xl: 40px;
+  --font-size-xs: 15px;
+  --font-size-xxl: 60px;
+ 
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-verdana-bold: "Verdana-Bold", Helvetica;
+  --font-family-verdana-bolditalic: "Verdana-BoldItalic", Helvetica;
+  --font-family-verdana-regular: "Verdana-Regular", Helvetica;
+}
+.verdana-regular-normal-teal-blue-15px {
+  color: var(--teal-blue);
+  font-family: var(--font-family-verdana-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.verdana-regular-normal-teal-blue-30px {
+  color: var(--teal-blue);
+  font-family: var(--font-family-verdana-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.verdana-bolditalic-bold-picton-blue-25px {
+  color: var(--picton-blue);
+  font-family: var(--font-family-verdana-bolditalic);
+  font-size: var(--font-size-m);
+  font-style: italic;
+  font-weight: 700;
+}
+
+.verdana-regular-normal-teal-blue-25px {
+  color: var(--teal-blue);
+  font-family: var(--font-family-verdana-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.verdana-bold-picton-blue-25px {
+  color: var(--picton-blue);
+  font-family: var(--font-family-verdana-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.verdana-regular-normal-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-verdana-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.verdana-regular-normal-teal-blue-20px {
+  color: var(--teal-blue);
+  font-family: var(--font-family-verdana-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.verdana-bold-teal-blue-20px {
+  color: var(--teal-blue);
+  font-family: var(--font-family-verdana-bold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.verdana-regular-normal-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-verdana-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.verdana-bold-white-60px {
+  color: var(--white);
+  font-family: var(--font-family-verdana-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.verdana-bold-black-40px {
+  color: var(--black);
+  font-family: var(--font-family-verdana-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}

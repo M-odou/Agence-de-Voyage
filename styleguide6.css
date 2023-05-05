@@ -1,0 +1,95 @@
+:root { 
+  --alto: #d9d9d9;
+  --black: #000000;
+  --picton-blue: #3fa9f5;
+  --teal-blue: #043a5c;
+  --white: #ffffff;
+ 
+  --font-size-l2: 30px;
+  --font-size-m2: 25px;
+  --font-size-s2: 20px;
+  --font-size-xs: 15px;
+ 
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-verdana-bold: "Verdana-Bold", Helvetica;
+  --font-family-verdana-regular: "Verdana-Regular", Helvetica;
+}
+.verdana-bold-picton-blue-15px {
+  color: var(--picton-blue);
+  font-family: var(--font-family-verdana-bold);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.verdana-regular-normal-teal-blue-15px {
+  color: var(--teal-blue);
+  font-family: var(--font-family-verdana-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.verdana-regular-normal-teal-blue-20px {
+  color: var(--teal-blue);
+  font-family: var(--font-family-verdana-regular);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.verdana-regular-normal-teal-blue-30px {
+  color: var(--teal-blue);
+  font-family: var(--font-family-verdana-regular);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-light-alto-20px {
+  color: var(--alto);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.inter-bold-picton-blue-20px {
+  color: var(--picton-blue);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-normal-alto-20px {
+  color: var(--alto);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.verdana-bold-teal-blue-20px {
+  color: var(--teal-blue);
+  font-family: var(--font-family-verdana-bold);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.verdana-bold-picton-blue-20px {
+  color: var(--picton-blue);
+  font-family: var(--font-family-verdana-bold);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.verdana-regular-normal-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-verdana-regular);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 400;
+}

@@ -1,0 +1,395 @@
+/* screen - desktop-4 */
+
+.desktop-4 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2486px;
+  width: 1440px;
+}
+
+.desktop-4 .rectangle-177 {
+  background-color: var(--white);
+  height: 152px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1440px;
+  z-index: 4;
+}
+
+.desktop-4 .rectangle-135 {
+  cursor: pointer;
+  height: 85px;
+  left: 42px;
+  object-fit: cover;
+  position: fixed;
+  top: 16px;
+  width: 189px;
+  z-index: 6;
+}
+
+.desktop-4 .rectangle-122 {
+  background-color: var(--picton-blue);
+  border-radius: 10px;
+  height: 75px;
+  left: 1157px;
+  position: fixed;
+  top: 33px;
+  width: 194px;
+  z-index: 5;
+}
+
+.desktop-4 .title {
+  cursor: pointer;
+  left: 596px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: fixed;
+  top: 51px;
+  white-space: nowrap;
+  z-index: 7;
+}
+
+.desktop-4 .accueil {
+  cursor: pointer;
+  left: 421px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: fixed;
+  top: 51px;
+  white-space: nowrap;
+  z-index: 8;
+}
+.desktop-4 .accueil a{
+  color: #043A5C;
+}
+
+.desktop-4 .locations {
+  cursor: pointer;
+  left: 788px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: fixed;
+  top: 51px;
+  white-space: nowrap;
+  z-index: 9;
+}
+.desktop-4 .locations a{
+  color: #043A5C;
+}
+
+
+.desktop-4 .a-propos {
+  left: 963px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: fixed;
+  top: 51px;
+  white-space: nowrap;
+  z-index: 10;
+}
+.desktop-4 .a-propos a{
+  color: #043A5C;
+}
+
+.desktop-4 .connexion {
+  cursor: pointer;
+  left: 1178px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: fixed;
+  top: 51px;
+  white-space: nowrap;
+  z-index: 11;
+}
+.desktop-4 .connexion a{
+  color: white;
+}
+
+.desktop-4 .line-1 {
+  height: 3px;
+  left: 963px;
+  position: fixed;
+  top: 89px;
+  width: 98px;
+  z-index: 12;
+}
+
+.desktop-4 .flex-col {
+  flex-direction: column;
+  gap: 391px;
+  margin-left: 55.0px;
+  margin-top: 422px;
+  min-height: 1518px;
+  width: 1109px;
+  z-index: 1;
+}
+
+.desktop-4 .lorem-ipsum-dolor {
+  letter-spacing: 0;
+  line-height: 42.8px;
+  min-height: 1118px;
+  width: 1109px;
+}
+
+.desktop-4 .line-5 {
+  height: 9px;
+  margin-right: 8.0px;
+  object-fit: cover;
+  width: 1071px;
+}
+
+.desktop-4 .flex-row {
+  gap: 53px;
+  margin-right: 20.0px;
+  margin-top: 61px;
+  min-width: 1254px;
+  z-index: 3;
+}
+
+.desktop-4 .flex-row-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 312px;
+  min-width: 896px;
+}
+
+.desktop-4 .flex-col-1 {
+  align-items: flex-start;
+  align-self: flex-start;
+  min-height: 292px;
+  width: 422px;
+}
+
+.desktop-4 .rectangle-107 {
+  height: 85px;
+  object-fit: cover;
+  width: 189px;
+}
+
+.desktop-4 .surname {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 34.2px;
+  margin-top: 21px;
+  min-height: 136px;
+  min-width: 387px;
+}
+
+.desktop-4 .icon-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 33px;
+  margin-left: 37px;
+  margin-top: 22px;
+  min-width: 150px;
+}
+
+.desktop-4 .icon {
+  height: 28px;
+  width: 28px;
+}
+
+.desktop-4 .line-3 {
+  height: 256px;
+  margin-left: 77px;
+  width: 1px;
+}
+
+.desktop-4 .flex-col-2 {
+  align-items: flex-start;
+  align-self: center;
+  gap: 39px;
+  margin-bottom: 21.0px;
+  margin-left: 96px;
+  min-height: 223px;
+  width: 132px;
+}
+
+.desktop-4 .lien-rapide {
+  letter-spacing: 0;
+  line-height: 34.2px;
+  white-space: nowrap;
+}
+
+.desktop-4 .frame-17 {
+  gap: 26px;
+  margin-left: 2px;
+}
+
+.desktop-4 .accueil-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-4 .frame-17-item {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-4 .line-4 {
+  height: 256px;
+  margin-left: 167px;
+  width: 1px;
+}
+
+.desktop-4 .flex-col-3 {
+  align-items: flex-start;
+  gap: 32px;
+  margin-top: 7.0px;
+  min-height: 251px;
+  width: 305px;
+}
+
+.desktop-4 .contactez-nous {
+  letter-spacing: 0;
+  line-height: 34.2px;
+  margin-left: 1px;
+  white-space: nowrap;
+}
+
+.desktop-4 .flex-row-2 {
+  align-items: center;
+  display: flex;
+  gap: 24px;
+  height: 185px;
+  min-width: 305px;
+}
+
+.desktop-4 .frame-22 {
+  gap: 19px;
+}
+
+.desktop-4 .group {
+  background-color: var(--teal-blue);
+  border-radius: 5px;
+  height: 49px;
+  min-width: 49px;
+  position: relative;
+}
+
+.desktop-4 .icon-location_pin {
+  height: 27px;
+  left: 15px;
+  position: absolute;
+  top: 11px;
+  width: 20px;
+}
+
+.desktop-4 .icon-call {
+  height: 22px;
+  left: 13px;
+  position: absolute;
+  top: 14px;
+  width: 23px;
+}
+
+.desktop-4 .icon-mail {
+  height: 19px;
+  left: 12px;
+  position: absolute;
+  top: 15px;
+  width: 26px;
+}
+
+.desktop-4 .flex-col-4 {
+  align-items: flex-start;
+  margin-bottom: 2.0px;
+  min-height: 171px;
+  width: 232px;
+}
+
+.desktop-4 .diamaguene-diacksao {
+  letter-spacing: 0;
+  line-height: 34.2px;
+  white-space: nowrap;
+}
+
+.desktop-4 .phone {
+  letter-spacing: 0;
+  line-height: 34.2px;
+  margin-top: 34px;
+  white-space: nowrap;
+}
+
+.desktop-4 .toukitoukicom {
+  letter-spacing: 0;
+  line-height: 34.2px;
+  margin-top: 35px;
+  white-space: nowrap;
+}
+
+.desktop-4 .flex-col-5 {
+  align-items: center;
+  gap: 35px;
+  margin-left: 47.0px;
+  margin-top: 47px;
+  min-height: 72px;
+  width: 1071px;
+  z-index: 2;
+}
+
+.desktop-4 .line-6 {
+  height: 9px;
+  object-fit: cover;
+  width: 1071px;
+}
+
+.desktop-4 .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  margin-left: 17.0px;
+  min-width: 658px;
+}
+
+.desktop-4 .vector {
+  align-self: flex-end;
+  height: 25px;
+  width: 25px;
+}
+
+.desktop-4 .copyright-tous-droits-reserves {
+  letter-spacing: 0;
+  line-height: 25.7px;
+  margin-left: 10px;
+  min-height: 26px;
+  min-width: 227px;
+  white-space: nowrap;
+}
+
+.desktop-4 .designed-by-modou-gningue-gueye {
+  letter-spacing: 0;
+  line-height: 25.7px;
+  margin-left: 127px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.desktop-4 .flex {
+  align-items: center;
+  display: flex;
+}
+
+.desktop-4 .flex-col-6 {
+  display: flex;
+  flex-direction: column;
+}
+
+.desktop-4 .frame {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}

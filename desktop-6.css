@@ -1,0 +1,691 @@
+/* screen - desktop-6 */
+
+.desktop-6 {
+  background-color: var(--white);
+  border: 1px none;
+  height: 1899px;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop-6 .quelle-est-ton-adresse {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s2);
+  font-weight: 700;
+  left: 118px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 983px;
+  white-space: nowrap;
+}
+
+.desktop-6 .oui {
+  left: 160px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 923px;
+  white-space: nowrap;
+}
+
+.desktop-6 .ellipse-container {
+  border-radius: 15.5px;
+  height: 31px;
+  left: 118px;
+  position: absolute;
+  top: 920px;
+  width: 31px;
+}
+
+.desktop-6 .ellipse-7 {
+  background-color: var(--teal-blue);
+  border: 1px solid;
+  border-color: var(--picton-blue);
+  border-radius: 15.5px;
+  height: 31px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(180deg);
+  width: 31px;
+}
+
+.desktop-6 .ellipse-9 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--picton-blue);
+  border-radius: 9px;
+  height: 18px;
+  left: 7px;
+  position: absolute;
+  top: 6px;
+  transform: rotate(180deg);
+  width: 18px;
+}
+
+.desktop-6 .ellipse-8 {
+  background-color: var(--teal-blue);
+  border-radius: 15.5px;
+  height: 31px;
+  left: 314px;
+  position: absolute;
+  top: 918px;
+  transform: rotate(180deg);
+  width: 31px;
+}
+
+.desktop-6 .non {
+  left: 351px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 923px;
+  white-space: nowrap;
+}
+
+.desktop-6 .avez-vous-dj-postu {
+  left: 118px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 873px;
+  white-space: nowrap;
+}
+
+.desktop-6 .overlap-group8 {
+  align-items: flex-end;
+  background-color: var(--teal-blue);
+  border: 1px solid;
+  border-color: var(--alto);
+  border-radius: 10px;
+  display: flex;
+  height: 54px;
+  justify-content: flex-end;
+  left: 118px;
+  min-width: 272px;
+  padding: 23.1px 12.5px;
+  position: absolute;
+  top: 422px;
+}
+
+.desktop-6 .vector {
+  height: 5px;
+  width: 15px;
+}
+
+.desktop-6 .rectangle-93 {
+  background-color: var(--teal-blue);
+  border: 1px solid;
+  border-color: var(--alto);
+  border-radius: 10px;
+  height: 54px;
+  left: 433px;
+  position: absolute;
+  top: 422px;
+  width: 273px;
+}
+
+.desktop-6 .rectangle-83 {
+  height: 54px;
+  left: 118px;
+  position: absolute;
+  top: 541px;
+  width: 588px;
+}
+
+.desktop-6 .overlap-group7 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6454f99b5a63da05183ba5f4/releases/6454fa09a464273ea3df720a/img/rectangle-91.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 54px;
+  left: 118px;
+  min-width: 287px;
+  padding: 11px 62px;
+  position: absolute;
+  top: 1162px;
+}
+
+.desktop-6 .soumettre {
+  color: var(--white);
+  font-family: var(--font-family-verdana-bold);
+  font-size: var(--font-size-m2);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.desktop-6 .rectangle-84 {
+  height: 54px;
+  left: 118px;
+  position: absolute;
+  top: 660px;
+  width: 273px;
+}
+
+.desktop-6 .rectangle-85 {
+  height: 54px;
+  left: 118px;
+  position: absolute;
+  top: 781px;
+  width: 273px;
+}
+
+.desktop-6 .rectangle-92 {
+  height: 54px;
+  left: 433px;
+  position: absolute;
+  top: 660px;
+  width: 273px;
+}
+
+.desktop-6 .classe {
+  left: 122px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 629px;
+  white-space: nowrap;
+}
+
+.desktop-6 .adresse-email {
+  left: 122px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 509px;
+  white-space: nowrap;
+}
+
+.desktop-6 .group-44 {
+  align-items: flex-start;
+  display: flex;
+  gap: 42px;
+  height: 54px;
+  left: 118px;
+  min-width: 592px;
+  position: absolute;
+  top: 298px;
+}
+
+.desktop-6 .overlap-group {
+  align-items: flex-end;
+  background-color: var(--teal-blue);
+  border: 1px solid;
+  border-color: var(--alto);
+  border-radius: 10px;
+  display: flex;
+  height: 54px;
+  min-width: 273px;
+  padding: 13px 28px;
+}
+
+.desktop-6 .prenom {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  min-width: 73px;
+  white-space: nowrap;
+}
+
+.desktop-6 .nom-de-famille {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  min-width: 142px;
+  white-space: nowrap;
+}
+
+.desktop-6 .nom-complet {
+  left: 124px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 264px;
+  white-space: nowrap;
+}
+
+.desktop-6 .nunero-telephone {
+  left: 118px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 749px;
+  white-space: nowrap;
+}
+
+.desktop-6 .date-de-naissance {
+  left: 122px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 388px;
+  white-space: nowrap;
+}
+
+.desktop-6 .lieu-de-naissance {
+  left: 440px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 388px;
+  white-space: nowrap;
+}
+
+.desktop-6 .anne-dentre {
+  left: 437px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 628px;
+  white-space: nowrap;
+}
+
+.desktop-6 .overlap-group6 {
+  border-radius: 10px;
+  height: 54px;
+  left: 118px;
+  position: absolute;
+  top: 1020px;
+  width: 181px;
+}
+
+.desktop-6 .rectangle {
+  background-color: var(--teal-blue);
+  border: 1px solid;
+  border-color: var(--alto);
+  border-radius: 10px;
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(180deg);
+  width: 181px;
+}
+
+.desktop-6 .place {
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.desktop-6 .overlap-group2 {
+  border-radius: 10px;
+  height: 54px;
+  left: 323px;
+  position: absolute;
+  top: 1020px;
+  width: 181px;
+}
+
+.desktop-6 .n-maison {
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.desktop-6 .overlap-group5 {
+  border-radius: 10px;
+  height: 54px;
+  left: 528px;
+  position: absolute;
+  top: 1020px;
+  width: 181px;
+}
+
+.desktop-6 .code-postal {
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.desktop-6 .overlap-group3 {
+  border-radius: 10px;
+  height: 54px;
+  left: 733px;
+  position: absolute;
+  top: 1020px;
+  width: 181px;
+}
+
+.desktop-6 .pays {
+  color: var(--alto);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s2);
+  font-weight: 200;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.desktop-6 .vector-1 {
+  height: 5px;
+  left: 144px;
+  position: absolute;
+  top: 30px;
+  width: 15px;
+}
+
+.desktop-6 .line-6 {
+  height: 9px;
+  left: 209px;
+  object-fit: cover;
+  position: absolute;
+  top: 1771px;
+  width: 1071px;
+}
+
+.desktop-6 .rectangle-107 {
+  height: 85px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 1412px;
+  width: 189px;
+}
+
+.desktop-6 .surname {
+  left: 119px;
+  letter-spacing: 0;
+  line-height: 34.2px;
+  position: absolute;
+  top: 1518px;
+}
+
+.desktop-6 .icon-linkedin {
+  height: 28px;
+  left: 121px;
+  position: absolute;
+  top: 1676px;
+  width: 28px;
+}
+
+.desktop-6 .icon-twitter {
+  height: 28px;
+  left: 182px;
+  position: absolute;
+  top: 1676px;
+  width: 28px;
+}
+
+.desktop-6 .icon-facebook {
+  height: 28px;
+  left: 243px;
+  position: absolute;
+  top: 1676px;
+  width: 28px;
+}
+
+.desktop-6 .lien-rapide {
+  left: 680px;
+  letter-spacing: 0;
+  line-height: 34.2px;
+  position: absolute;
+  top: 1446px;
+  white-space: nowrap;
+}
+
+.desktop-6 .contactez-nous {
+  left: 1034px;
+  letter-spacing: 0;
+  line-height: 34.2px;
+  position: absolute;
+  top: 1446px;
+  white-space: nowrap;
+}
+
+.desktop-6 .diamaguene-diacksao {
+  left: 1106px;
+  letter-spacing: 0;
+  line-height: 34.2px;
+  position: absolute;
+  top: 1518px;
+  white-space: nowrap;
+}
+
+.desktop-6 .phone {
+  left: 1106px;
+  letter-spacing: 0;
+  line-height: 34.2px;
+  position: absolute;
+  top: 1586px;
+  white-space: nowrap;
+}
+
+.desktop-6 .toukitoukicom {
+  left: 1106px;
+  letter-spacing: 0;
+  line-height: 34.2px;
+  position: absolute;
+  top: 1655px;
+  white-space: nowrap;
+}
+
+.desktop-6 .line-3 {
+  height: 256px;
+  left: 583px;
+  position: absolute;
+  top: 1468px;
+  width: 1px;
+}
+
+.desktop-6 .line-4 {
+  height: 256px;
+  left: 979px;
+  position: absolute;
+  top: 1468px;
+  width: 1px;
+}
+
+.desktop-6 .frame-17 {
+  gap: 26px;
+  left: 682px;
+  top: 1519px;
+}
+
+.desktop-6 .accueil {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+.desktop-6 .accueil a{
+  color: #043A5C;
+}
+
+.desktop-6 .frame-17-item {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-6 .frame-22 {
+  gap: 19px;
+  left: 1033px;
+  top: 1512px;
+}
+
+.desktop-6 .group {
+  background-color: var(--teal-blue);
+  border-radius: 5px;
+  height: 49px;
+  min-width: 49px;
+  position: relative;
+}
+
+.desktop-6 .icon-location_pin {
+  height: 27px;
+  left: 15px;
+  position: absolute;
+  top: 11px;
+  width: 20px;
+}
+
+.desktop-6 .icon-call {
+  height: 22px;
+  left: 13px;
+  position: absolute;
+  top: 14px;
+  width: 23px;
+}
+
+.desktop-6 .icon-mail {
+  height: 19px;
+  left: 12px;
+  position: absolute;
+  top: 15px;
+  width: 26px;
+}
+
+.desktop-6 .line-5 {
+  height: 9px;
+  left: 209px;
+  object-fit: cover;
+  position: absolute;
+  top: 1342px;
+  width: 1071px;
+}
+
+.desktop-6 .copyright-tous-droits-reserves {
+  left: 459px;
+  letter-spacing: 0;
+  line-height: 25.7px;
+  position: absolute;
+  top: 1815px;
+  white-space: nowrap;
+}
+
+.desktop-6 .designed-by-modou-gningue-gueye {
+  left: 813px;
+  letter-spacing: 0;
+  line-height: 25.7px;
+  position: absolute;
+  top: 1815px;
+  white-space: nowrap;
+}
+
+.desktop-6 .vector-2 {
+  height: 25px;
+  left: 424px;
+  position: absolute;
+  top: 1818px;
+  width: 25px;
+}
+
+.desktop-6 .rectangle-177 {
+  background-color: var(--white);
+  height: 152px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop-6 .rectangle-122 {
+  background-color: var(--picton-blue);
+  border-radius: 10px;
+  height: 75px;
+  left: 1157px;
+  position: fixed;
+  top: 33px;
+  width: 194px;
+}
+
+.desktop-6 .rectangle-135 {
+  cursor: pointer;
+  height: 85px;
+  left: 42px;
+  object-fit: cover;
+  position: fixed;
+  top: 16px;
+  width: 189px;
+}
+
+.desktop-6 .title {
+  cursor: pointer;
+  left: 596px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: fixed;
+  top: 51px;
+  white-space: nowrap;
+}
+.desktop-6 .title  a{
+  color: #043A5C;
+}
+
+.desktop-6 .accueil-1 {
+  cursor: pointer;
+  left: 421px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: fixed;
+  top: 51px;
+  white-space: nowrap;
+}
+.desktop-6 .accueil-1  a{
+  color: #043A5C;
+}
+
+.desktop-6 .locations {
+  cursor: pointer;
+  left: 788px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: fixed;
+  top: 51px;
+  white-space: nowrap;
+}
+.desktop-6 .locations a{
+  color: #043A5C;
+}
+.desktop-6 .a-propos {
+  cursor: pointer;
+  left: 963px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: fixed;
+  top: 51px;
+  white-space: nowrap;
+}
+.desktop-6 .a-propos a{
+  color: #043A5C;
+}
+
+.desktop-6 .connexion {
+  cursor: pointer;
+  left: 1178px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: fixed;
+  top: 51px;
+  white-space: nowrap;
+}
+
+.desktop-6 .frame {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  width: fit-content;
+}
